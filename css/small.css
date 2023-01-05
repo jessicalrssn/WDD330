@@ -1,7 +1,8 @@
 h1, h2, li, footer, p{
     font-family: 'Signika', sans-serif;
 }
-h1 a{
+
+h1 a:link{
   color: white;
   text-decoration: none;
 }
