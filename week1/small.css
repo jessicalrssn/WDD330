@@ -1,6 +1,10 @@
 h1, h2, li, footer, p{
     font-family: 'Signika', sans-serif;
 }
+h1 a{
+    color: white;
+    text-decoration: none;
+  }
 
 header{
   text-align: center;
