@@ -1,7 +1,7 @@
 h1, h2, li, footer, p{
     font-family: 'Signika', sans-serif;
 }
-h1 a:link, a:visited{
+h1 a:link, h1 a:visited{
     color: white;
     text-decoration: none;
   }
@@ -42,3 +42,6 @@ h2{
 img{
     width: 100%;
  }
+p.activityLink{
+    font-size: 1.5em;
+}
