@@ -1,0 +1,47 @@
+h1, h2, li, footer, p{
+    font-family: 'Signika', sans-serif;
+}
+h1 a:link, h1 a:visited{
+    color: white;
+    text-decoration: none;
+  }
+
+header{
+  text-align: center;
+  background-color: #0f7376;
+  color: white;
+  padding: 1em;
+  
+}
+ footer{
+    color: white;
+    background-color: #0f7376;
+    padding: 10px;
+    text-align: center;
+   
+}
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+li{
+   line-height: 1.5em; 
+   font-size: 1rem;
+}
+h1{
+    font-size: 2rem;
+}
+
+h2{
+  text-align: center;
+}
+
+.bottomFooter{
+  text-align: center;
+}
+img{
+    width: 100%;
+ }
+p.activityLink{
+    font-size: 1.5em;
+}
